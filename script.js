@@ -3,7 +3,7 @@
 const texts = [
   "Linux lover 🐧",
   "Cybersecurity enthusiast 🛡️",
-  "Frontend aesthetic developer ✨",
+  "Frontend developer ✨",
   "Técnico en Sistemas 💻"
 ];
 
